@@ -1,0 +1,26 @@
+@media (max-width: 991.98px) {
+  .count {
+    display: none;
+  }
+
+  .color {
+    display: none;
+  }
+
+  .brand {
+    display: none;
+  }
+
+  .shipping {
+    display: none;
+  }
+}
+
+@media (max-width: 450px) {
+  .price {
+    display: none;
+  }
+  .title {
+    display: none;
+  }
+}
