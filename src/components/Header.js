@@ -76,15 +76,6 @@ const Header = () => {
 
             <li className="nav-item ">
               <Link
-                to="/register"
-                className="text-decoration-none nav-link pe-1 fw-bold"
-              >
-                Register
-              </Link>
-            </li>
-
-            <li className="nav-item ">
-              <Link
                 to="/cart"
                 className="text-decoration-none nav-link pe-1 fw-bold"
               >
